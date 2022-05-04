@@ -1,0 +1,45 @@
+{
+  "dishes": [
+    {
+      "category": "\"meal\"",
+      "description:": "\"This chicken burger gets Asian-flavour taste \"",
+      "featured": "true",
+      "id": 0,
+      "image": "\"https://images.unsplash.com/photo-1568901346375-23c9450c58cd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1899&q=80\"",
+      "label": "Hot",
+      "name": "Ginger Burger",
+      "price": "199"
+    },
+    {
+      "category": "meal",
+      "description": "This BBQ pizza with tanzy BBQ sauce , chicken.....",
+      "featured": true,
+      "id": 1,
+      "image": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2012/2/28/1/FNM_040112-Copy-That-002_s4x3.jpg.rend.hgtvcom.616.462.suffix/1382541346030.jpeg",
+      "label": "Hot",
+      "name": "BBQ pizza",
+      "price": "200"
+    },
+
+    {
+      "category": "\"meal\"",
+      "description": "This fries has a delicious taste...",
+      "featured": true,
+      "id": 2,
+      "image": "",
+      "label": "\"Hot\"",
+      "name": "french-fries",
+      "price": 150
+    },
+    {
+      "category": "\"meal\"",
+      "description": "This cake is so sweet",
+      "featured": true,
+      "id": 3,
+      "image": "",
+      "label": "cold",
+      "name": "cake",
+      "price": 100
+    }
+  ]
+}
