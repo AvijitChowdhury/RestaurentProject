@@ -15,7 +15,7 @@
 
 <body>
 <h2>Welcome Screen for my app.</h2>
-<img src="./ProjectVideoImages/splash.jpg">
+<img height="500" src="./ProjectVideoImages/splash.jpg">
 <h2>For Menu Items</h2>
 <img src="./assets/menuItem.jpg">
 <h2>Specific foods.</h2>
