@@ -5,8 +5,9 @@ import React from 'react';
 import Icon from './components/Icon';
 import DishDetailScreen from './screens/DishDetailScreeen';
 import FavouritesScreen from './screens/FavouritesScreen';
-import HomeScreen from './screens/HomeScreen';
+// import HomeScreen from './screens/HomeScreen';
 import MenuScreen from './screens/MenuScreen';
+import WelcomeScreen from './screens/WelcomeScreen';
 
 const Stack=createStackNavigator();
 const Drawer = createDrawerNavigator();
@@ -68,8 +69,10 @@ const AppNavigator = () => {
     return (
 
  
-        <Drawer.Navigator initialRouteName="Home">
-        <Drawer.Screen name="Home" component={HomeScreen} />
+        // <Drawer.Navigator initialRouteName="Home">
+        <Drawer.Navigator initialRouteName="WelcomeScreen">
+        <Drawer.Screen name="Home" component={WelcomeScreen}></Drawer.Screen>
+        {/* <Drawer.Screen name="Home" component={HomeScreen} /> */}
         <Drawer.Screen name="Menu" component={MenuStack} />
         <Drawer.Screen name="Favourites " component={FavStack}/>
       </Drawer.Navigator>
