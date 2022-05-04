@@ -17,13 +17,13 @@
 <h2>Welcome Screen for my app.</h2>
 <img height="500" src="./ProjectVideoImages/splash.jpg">
 <h2>For Menu Items</h2>
-<img src="./assets/menuItem.jpg">
+<img height="500" src="./assets/menuItem.jpg">
 <h2>Specific foods.</h2>
-<img src="./ProjectVideoImages/photo_2022-05-03_18-44-49 (4).jpg">
-<img src="./ProjectVideoImages/photo_2022-05-03_18-44-49 (3).jpg">
-<img src="./ProjectVideoImages/photo_2022-05-03_18-44-49.jpg">
+<img height="500" src="./ProjectVideoImages/photo_2022-05-03_18-44-49 (4).jpg">
+<img height="500" src="./ProjectVideoImages/photo_2022-05-03_18-44-49 (3).jpg">
+<img height="500" src="./ProjectVideoImages/photo_2022-05-03_18-44-49.jpg">
 <h2>Add food to favourite feature.</h2>
-<img src="./ProjectVideoImages/photo_2022-05-03_18-44-49 (6).jpg">
+<img height="500" src="./ProjectVideoImages/photo_2022-05-03_18-44-49 (6).jpg">
 <h2>Favourite food list</h2>
 <img src="./ProjectVideoImages/photo_2022-05-03_18-44-49 (7).jpg>
 
