@@ -38,3 +38,4 @@
 ### To run this app on your device ,install expo cli in your device and go to this link and scan the QR code:
 
 <a href="https://expo.dev/@avijit_chy/Restaurant_Project">Press the link...</a>
+                                                         <a href="https://expo.dev/accounts/avijit_chy/projects/Restaurant_Project/builds/3d9476e1-b428-4523-bb0d-43da2e25a19d">link for download apk</a>
